@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Jordy</h1>
 <h3 align="center">Un apasionado desarrollador frontend de Costa Rica</h3>
 
-<p align="left"> <img src= "https://komarev.com/ghpvc/?username=jordyretana&label=Profile%20views&color=0e75b6&style=flat" alt="jordyretana" /> </p>
+<p align="left"> <img src= "https://komarev.com/ghpvc/?username=JordyRetana&label=Profile%20views&color=0e75b6&style=flat" alt="jordyretana" /> </p>
 
 <p align="left"> <a href="https: //github.com/ryo-ma/github-profile-tropico"><img src="https://github-profile-tropico.vercel.app/?username=jordyretana" alt="jordyretana" /></ a> </p>
 
