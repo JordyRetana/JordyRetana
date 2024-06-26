@@ -48,4 +48,6 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/JordyRetana/JordyRetana/output/snake.svg" alt="Snake animation" />
 
+###
