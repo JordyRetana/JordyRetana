@@ -48,7 +48,6 @@ Focused on clean UI, maintainable architecture, and performance-driven developme
 
 ## Featured Projects
 
-> Replace these with your real repositories (3–6). Keep descriptions short and specific.
 
 | Project | Summary | Stack | Status |
 |---|---|---|---|
