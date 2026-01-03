@@ -48,7 +48,6 @@ Focused on clean UI, maintainable architecture, and performance-driven developme
 
 ## Featured Projects
 
-
 | Project | Summary | Stack | Status |
 |---|---|---|---|
 | **Project A** | Web app with authentication, roles, and dashboards | React · Node/Nest · DB | Active |
@@ -111,16 +110,24 @@ Focused on clean UI, maintainable architecture, and performance-driven developme
   <summary><b>GitHub Stats</b></summary>
   <br />
   <p align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=JordyRetana&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordyRetana&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
+    <img height="165"
+      src="https://github-readme-stats.vercel.app/api?username=JordyRetana&show_icons=true&theme=dark&hide_border=true&cache_seconds=21600&v=1"
+      alt="GitHub stats" />
+    <img height="165"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordyRetana&layout=compact&theme=dark&hide_border=true&cache_seconds=21600&v=1"
+      alt="Top languages" />
   </p>
 
   <p align="center">
-    <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=JordyRetana&theme=dark&hide_border=true" alt="Streak stats" />
+    <img height="170"
+      src="https://streak-stats.demolab.com/?user=JordyRetana&theme=dark&hide_border=true&v=1"
+      alt="Streak stats" />
   </p>
 
   <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JordyRetana&theme=github-compact&hide_border=true" alt="Activity graph" />
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=JordyRetana&theme=github-compact&hide_border=true&v=1"
+      alt="Activity graph" />
   </p>
 </details>
 
