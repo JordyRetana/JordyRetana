@@ -1,98 +1,140 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<!-- =========================================================
+  Jordy Retana — GitHub Profile README 
+========================================================= -->
 
-###
-
-<p align="left">My name is Jordy and I am an engineer from Costa Rica</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-</div>
-
-###
-<div> <a href="https://github.com/JordyRetana" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg" alt="PHP" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/redux-original.svg" alt="Redux" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nestjs-plain.svg" alt="NestJs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/springio-icon.svg" alt="Spring" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/header_logo.svg" alt="React Native" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/adobe-xd.svg" alt="Adobe-Xd" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/adobe_illustrator-icon%20(1).svg" alt="Adobe Illustrator" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Engines/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Engines/unreal-engine.svg" alt="Unreal Engine" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7c3aed&height=170&section=header&text=Jordy%20Retana&fontSize=46&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordyRetana&layout=compact&theme=dark" alt=JordyRetana />
+<p align="center">
+  <b>Engineer from Costa Rica 🇨🇷</b> · Full-Stack Developer · UI/UX · 3D & Interactive Experiences
+</p>
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=JordyRetana&show_icons=true&locale=en&theme=dark" alt="JordyRetana" /></p>
+<p align="center">
+  <a href="https://github.com/JordyRetana">
+    <img src="https://img.shields.io/badge/GitHub-JordyRetana-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JordyRetana&theme=dark" alt="JordyRetana" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JordyRetana&style=flat-square&color=7c3aed" />
+  <img src="https://img.shields.io/github/followers/JordyRetana?style=flat-square&color=0ea5e9" />
+  <img src="https://img.shields.io/github/stars/JordyRetana?style=flat-square&color=f59e0b" />
+</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/JordyRetana">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JordyRetana&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JordyRetana&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JordyRetana&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JordyRetana&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JordyRetana&theme=2077" height="180em" />
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=JordyRetana&theme=default"/>
+---
 
-###
+## 👋 About me
+
+- 🧩 Me enfoco en construir **productos reales**: frontend sólido + backend escalable + UI clara  
+- ⚡ Me gusta: **performance, arquitectura, buenas prácticas, automatización**
+- 🎮 Intereses extra: **3D, Unity/Unreal, experiencias interactivas**
+- 📈 Objetivo: **entregar proyectos con impacto y subir mi nivel como ingeniero**
+
+---
+
+## 🧠 What I’m good at
+
+- **Frontend:** componentes reutilizables, diseño consistente, estados y data-fetching
+- **Backend:** APIs limpias, validación, seguridad básica, patrones y capas
+- **Databases:** modelado, queries, integridad y rendimiento
+- **Dev workflow:** Git, pruebas, contenedores, CI básico
+
+---
+
+## 🏗️ Featured Projects
+
+
+| Project | What it is | Stack | Status |
+|---|---|---|---|
+| **Project A** | Web app / dashboard con auth y roles | React · Node/Nest · DB | ✅ Active |
+| **Project B** | API / sistema en capas | C# · .NET · SQL | ✅ Active |
+| **Project C** | Experiencia 3D / juego | Unity/Unreal · C# / C++ | 🧪 Prototype |
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=f7df1e" />
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178c6" />
+  <img src="https://img.shields.io/badge/C%23-111827?style=for-the-badge&logo=csharp&logoColor=9b59b6" />
+  <img src="https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge&logo=c%2B%2B&logoColor=00599c" />
+  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776ab" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61dafb" />
+  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Storybook-111827?style=for-the-badge&logo=storybook&logoColor=ff4785" />
+  <img src="https://img.shields.io/badge/Bootstrap-111827?style=for-the-badge&logo=bootstrap&logoColor=7952b3" />
+  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572b6" />
+  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=e34f26" />
+</p>
+
+### Backend & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=22c55e" />
+  <img src="https://img.shields.io/badge/NestJS-111827?style=for-the-badge&logo=nestjs&logoColor=e0234e" />
+  <img src="https://img.shields.io/badge/Spring-111827?style=for-the-badge&logo=spring&logoColor=6db33f" />
+  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ed" />
+  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Jest-111827?style=for-the-badge&logo=jest&logoColor=c21325" />
+</p>
+
+### Databases & Cloud
+<p>
+  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479a1" />
+  <img src="https://img.shields.io/badge/Oracle-111827?style=for-the-badge&logo=oracle&logoColor=f80000" />
+  <img src="https://img.shields.io/badge/Firebase-111827?style=for-the-badge&logo=firebase&logoColor=ffca28" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-111827?style=for-the-badge&logo=googlecloud&logoColor=4285f4" />
+</p>
+
+### 3D / Game Dev
+<p>
+  <img src="https://img.shields.io/badge/Blender-111827?style=for-the-badge&logo=blender&logoColor=f5792a" />
+  <img src="https://img.shields.io/badge/Unity-111827?style=for-the-badge&logo=unity&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Unreal-111827?style=for-the-badge&logo=unrealengine&logoColor=ffffff" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JordyRetana&show_icons=true&theme=dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordyRetana&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=JordyRetana&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JordyRetana&theme=github-compact&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Highlights
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JordyRetana&theme=darkhub&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 🤝 Let’s connect
+
+- 💬 Open to: collaborations, small projects, learning teams
+- 📫 Contact: **TU_EMAIL** *(opcional)*  
+- 🌐 Portfolio: **TU_LINK** *(opcional)*
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0ea5e9&height=120&section=footer" />
+</p>
