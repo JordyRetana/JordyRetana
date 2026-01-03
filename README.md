@@ -1,7 +1,3 @@
-<!-- =========================================================
-  Jordy Retana — GitHub Profile README 
-========================================================= -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7c3aed&height=170&section=header&text=Jordy%20Retana&fontSize=46&fontColor=ffffff&animation=fadeIn" />
 </p>
@@ -12,48 +8,57 @@
 
 <p align="center">
   <a href="https://github.com/JordyRetana">
-    <img src="https://img.shields.io/badge/GitHub-JordyRetana-111827?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-JordyRetana-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/jordy-retana-553632164/">
+    <img src="https://img.shields.io/badge/LinkedIn-Jordy%20Retana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:jretanamendez@gmail.com">
+    <img src="https://img.shields.io/badge/Email-jretanamendez%40gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JordyRetana&style=flat-square&color=7c3aed" />
-  <img src="https://img.shields.io/github/followers/JordyRetana?style=flat-square&color=0ea5e9" />
-  <img src="https://img.shields.io/github/stars/JordyRetana?style=flat-square&color=f59e0b" />
+  <img src="https://komarev.com/ghpvc/?username=JordyRetana&style=flat-square&color=7c3aed" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/JordyRetana?style=flat-square&color=0ea5e9" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/JordyRetana?style=flat-square&color=f59e0b" alt="Stars" />
 </p>
 
 ---
 
-## 👋 About me
+## About
 
-- 🧩 Me enfoco en construir **productos reales**: frontend sólido + backend escalable + UI clara  
-- ⚡ Me gusta: **performance, arquitectura, buenas prácticas, automatización**
-- 🎮 Intereses extra: **3D, Unity/Unreal, experiencias interactivas**
-- 📈 Objetivo: **entregar proyectos con impacto y subir mi nivel como ingeniero**
+I build web applications, APIs, and interactive experiences.  
+Focused on clean UI, maintainable architecture, and performance-driven development.
 
----
-
-## 🧠 What I’m good at
-
-- **Frontend:** componentes reutilizables, diseño consistente, estados y data-fetching
-- **Backend:** APIs limpias, validación, seguridad básica, patrones y capas
-- **Databases:** modelado, queries, integridad y rendimiento
-- **Dev workflow:** Git, pruebas, contenedores, CI básico
+- Based in: **Costa Rica (UTC-6)**
+- Interests: **Frontend architecture · Backend design · Automation · 3D**
+- Tools I enjoy: **React/Next.js · NestJS · Spring · .NET · Docker**
 
 ---
 
-## 🏗️ Featured Projects
+## Strengths
 
+- **Frontend:** reusable components, design systems, state & data fetching, accessibility basics  
+- **Backend:** clean APIs, validation, layered architecture, predictable error handling  
+- **Databases:** modeling, queries, integrity, performance considerations  
+- **Workflow:** Git, testing, Docker, and disciplined project structure
 
-| Project | What it is | Stack | Status |
+---
+
+## Featured Projects
+
+> Replace these with your real repositories (3–6). Keep descriptions short and specific.
+
+| Project | Summary | Stack | Status |
 |---|---|---|---|
-| **Project A** | Web app / dashboard con auth y roles | React · Node/Nest · DB | ✅ Active |
-| **Project B** | API / sistema en capas | C# · .NET · SQL | ✅ Active |
-| **Project C** | Experiencia 3D / juego | Unity/Unreal · C# / C++ | 🧪 Prototype |
+| **Project A** | Web app with authentication, roles, and dashboards | React · Node/Nest · DB | Active |
+| **Project B** | Layered backend / enterprise-style module | C# · .NET · SQL | Active |
+| **Project C** | Interactive / 3D prototype or game experience | Unity/Unreal · C# / C++ | Prototype |
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### Languages
 <p>
@@ -80,6 +85,7 @@
   <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=22c55e" />
   <img src="https://img.shields.io/badge/NestJS-111827?style=for-the-badge&logo=nestjs&logoColor=e0234e" />
   <img src="https://img.shields.io/badge/Spring-111827?style=for-the-badge&logo=spring&logoColor=6db33f" />
+  <img src="https://img.shields.io/badge/.NET-111827?style=for-the-badge&logo=dotnet&logoColor=512bd4" />
   <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ed" />
   <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Jest-111827?style=for-the-badge&logo=jest&logoColor=c21325" />
@@ -102,38 +108,29 @@
 
 ---
 
-## 📊 GitHub Analytics
+<details>
+  <summary><b>GitHub Stats</b></summary>
+  <br />
+  <p align="center">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=JordyRetana&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordyRetana&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
+  </p>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JordyRetana&show_icons=true&theme=dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordyRetana&layout=compact&theme=dark&hide_border=true" />
-</p>
+  <p align="center">
+    <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=JordyRetana&theme=dark&hide_border=true" alt="Streak stats" />
+  </p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=JordyRetana&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JordyRetana&theme=github-compact&hide_border=true" />
-</p>
-
----
-
-## 🏆 Highlights
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JordyRetana&theme=darkhub&no-frame=true&margin-w=10" />
-</p>
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JordyRetana&theme=github-compact&hide_border=true" alt="Activity graph" />
+  </p>
+</details>
 
 ---
 
-## 🤝 Let’s connect
+## Contact
 
-- 💬 Open to: collaborations, small projects, learning teams
-- 📫 Contact: **TU_EMAIL** *(opcional)*  
-- 🌐 Portfolio: **TU_LINK** *(opcional)*
-
----
+- LinkedIn: https://www.linkedin.com/in/jordy-retana-553632164/
+- Email: jretanamendez@gmail.com
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0ea5e9&height=120&section=footer" />
