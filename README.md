@@ -9,10 +9,6 @@
 </p>
 
 <p align="center">
-  <img width="760" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" />
-</p>
-
-<p align="center">
   <a href="https://github.com/JordyRetana">
     <img src="https://img.shields.io/badge/GitHub-JordyRetana-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -38,21 +34,27 @@
 
 <table>
   <tr>
-    <td width="55%">
-      <h3>Hey, I'm Jordy</h3>
-      <p>
-        I'm a Full-Stack Developer from Costa Rica focused on building clean, useful and scalable software.
-        I like mixing engineering, design, performance and interactive ideas to create digital experiences that feel polished.
-      </p>
-      <p>
-        My work is centered around web applications, APIs, dashboards, UI systems, automation, cloud tools and 3D or game-style experiences.
-      </p>
+    <td width="48%" align="center">
+      <img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" />
     </td>
-    <td width="45%" align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=420&lines=Clean+Code;Scalable+Architecture;Creative+UI;Fast+Experiences;Always+Learning" alt="About animation" />
-      <br /><br />
-      <img src="https://img.shields.io/badge/Costa%20Rica-0ea5e9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Costa Rica" />
-      <img src="https://img.shields.io/badge/UTC--6-7c3aed?style=for-the-badge" alt="UTC-6" />
+    <td width="52%">
+      <h3>Hey, I'm Jordy Retana</h3>
+      <p>
+        Full-Stack Developer from Costa Rica focused on building clean, scalable and creative digital experiences.
+      </p>
+      <p>
+        I enjoy working across frontend, backend, cloud, UI/UX, automation and interactive 3D ideas.
+      </p>
+      <p>
+        I like software that feels fast, useful, polished and easy to maintain.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Costa%20Rica-0ea5e9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Costa Rica" />
+        <img src="https://img.shields.io/badge/UTC--6-7c3aed?style=for-the-badge" alt="UTC-6" />
+      </p>
+      <p>
+        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2200&pause=700&color=F59E0B&vCenter=true&width=520&lines=Clean+Code;Scalable+Architecture;Creative+UI;Interactive+Experiences;Always+Learning" alt="About typing animation" />
+      </p>
     </td>
   </tr>
 </table>
