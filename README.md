@@ -1,10 +1,15 @@
+<!-- README START -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0ea5e9,70:7c3aed,100:f59e0b&height=230&section=header&text=Jordy%20Retana&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20UI%2FUX%20%7C%203D%20%26%20Interactive%20Experiences&descAlignY=58&descSize=18&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0ea5e9,55:7c3aed,80:f59e0b,100:ef4444&height=190&section=header&text=Jordy%20Retana&fontSize=54&fontColor=ffffff&fontAlignY=35&animation=twinkling" alt="Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=950&lines=Engineer+from+Costa+Rica;Building+clean+and+scalable+software;Frontend+%2B+Backend+%2B+Cloud;Designing+interfaces+that+feel+good;Exploring+3D+and+interactive+experiences" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2400&pause=800&color=38BDF8&center=true&vCenter=true&width=950&lines=Full-Stack+Developer+from+Costa+Rica;Building+clean+and+scalable+software;Frontend+%2B+Backend+%2B+Cloud;UI%2FUX+with+engineering+mindset;3D+%26+Interactive+Experiences" alt="Typing animation" />
+</p>
+
+<p align="center">
+  <img width="760" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" />
 </p>
 
 <p align="center">
@@ -25,100 +30,73 @@
   <img src="https://img.shields.io/github/stars/JordyRetana?style=for-the-badge&color=f59e0b&label=Stars" alt="Stars" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" alt="Divider" />
+</p>
 
 ## About Me
 
 <table>
   <tr>
-    <td width="180"><b>Location</b></td>
-    <td>Costa Rica, UTC-6</td>
-  </tr>
-  <tr>
-    <td><b>Role</b></td>
-    <td>Full-Stack Developer</td>
-  </tr>
-  <tr>
-    <td><b>Focus</b></td>
-    <td>Web apps, APIs, dashboards, UI/UX, automation, cloud, 3D and interactive systems</td>
-  </tr>
-  <tr>
-    <td><b>Style</b></td>
-    <td>Clean interfaces, solid architecture, useful details, fast experiences</td>
+    <td width="55%">
+      <h3>Hey, I'm Jordy</h3>
+      <p>
+        I'm a Full-Stack Developer from Costa Rica focused on building clean, useful and scalable software.
+        I like mixing engineering, design, performance and interactive ideas to create digital experiences that feel polished.
+      </p>
+      <p>
+        My work is centered around web applications, APIs, dashboards, UI systems, automation, cloud tools and 3D or game-style experiences.
+      </p>
+    </td>
+    <td width="45%" align="center">
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=420&lines=Clean+Code;Scalable+Architecture;Creative+UI;Fast+Experiences;Always+Learning" alt="About animation" />
+      <br /><br />
+      <img src="https://img.shields.io/badge/Costa%20Rica-0ea5e9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Costa Rica" />
+      <img src="https://img.shields.io/badge/UTC--6-7c3aed?style=for-the-badge" alt="UTC-6" />
+    </td>
   </tr>
 </table>
-
-I like building software that feels clear, fast, useful and well-crafted.  
-My work lives between engineering and design: clean architecture, polished interfaces, strong backend foundations and interactive experiences that feel alive.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2300&pause=700&color=A78BFA&center=true&vCenter=true&width=850&lines=Clean+code;Scalable+architecture;Useful+interfaces;Creative+engineering;Performance-minded+development" alt="Focus animation" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,12,20&height=3&section=header" alt="Divider" />
 </p>
 
----
-
-## Developer DNA
+## Creative Developer Profile
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>Product Mindset</h3>
-      <p>
-        I care about how software works, how it looks, how it feels, and how easy it is to maintain after the first version is shipped.
-      </p>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Frontend-0ea5e9?style=for-the-badge&logo=react&logoColor=white" alt="Frontend" />
+      <br /><br />
+      Reusable components, responsive layouts, UI polish and modern web experiences.
     </td>
-    <td width="50%">
-      <h3>Full-Stack Thinking</h3>
-      <p>
-        I enjoy connecting frontend, backend, databases, cloud services and deployment workflows into complete systems.
-      </p>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Backend-7c3aed?style=for-the-badge&logo=nestjs&logoColor=white" alt="Backend" />
+      <br /><br />
+      APIs, services, validation, authentication, databases and clean architecture.
     </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Creative Engineering</h3>
-      <p>
-        I like interfaces with motion, visual detail, 3D ideas, game-like interactions and experiences that feel more memorable.
-      </p>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Cloud-f59e0b?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud" />
+      <br /><br />
+      Docker, deployments, Firebase, Google Cloud and practical automation.
     </td>
-    <td width="50%">
-      <h3>Quality First</h3>
-      <p>
-        I value readable code, predictable structure, reusable components, clear APIs and practical documentation.
-      </p>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/3D%20Tech-ef4444?style=for-the-badge&logo=unity&logoColor=white" alt="3D Tech" />
+      <br /><br />
+      Interactive prototypes, game development ideas, visual experiments and immersive UI.
     </td>
   </tr>
 </table>
 
 ---
 
-## What I Build
+## Tech Arsenal
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Web%20Apps-0ea5e9?style=for-the-badge&logo=react&logoColor=white" alt="Web apps" />
-      <br /><br />
-      Dashboards, admin panels, responsive applications and reusable UI systems.
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/APIs%20%26%20Backends-7c3aed?style=for-the-badge&logo=nestjs&logoColor=white" alt="APIs and backends" />
-      <br /><br />
-      REST APIs, services, authentication, validation, business logic and database-driven systems.
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Interactive%20Tech-f59e0b?style=for-the-badge&logo=unity&logoColor=white" alt="Interactive tech" />
-      <br /><br />
-      3D prototypes, creative interfaces, game development experiments and visual experiences.
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2300&pause=700&color=F59E0B&center=true&vCenter=true&width=850&lines=Languages;Frontend;Backend;Databases;Cloud;3D+and+Game+Development" alt="Tech typing animation" />
+</p>
 
----
-
-## Tech Stack
-
-### Core Languages
+### Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,cs,cpp,java,python&theme=dark" alt="Languages" />
@@ -136,7 +114,7 @@ My work lives between engineering and design: clean architecture, polished inter
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,spring,dotnet&theme=dark" alt="Backend" />
 </p>
 
-### DevOps, Testing and Tools
+### DevOps and Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,linux,git,github,jest,vscode&theme=dark" alt="DevOps and tools" />
@@ -157,70 +135,113 @@ My work lives between engineering and design: clean architecture, polished inter
 
 ---
 
-## Current Direction
+## What I Like Building
 
 <table>
   <tr>
-    <td width="25%" align="center">
-      <b>Frontend</b>
-      <br /><br />
-      Design systems, reusable components, UI polish and responsive layouts.
+    <td width="50%">
+      <h3>Web Applications</h3>
+      <p>
+        Dashboards, admin panels, authentication flows, responsive interfaces and complete full-stack systems.
+      </p>
     </td>
-    <td width="25%" align="center">
-      <b>Backend</b>
-      <br /><br />
-      Clean APIs, layered architecture, validation and maintainable services.
+    <td width="50%">
+      <h3>Backend Systems</h3>
+      <p>
+        REST APIs, layered services, database-driven applications, validation flows and maintainable modules.
+      </p>
     </td>
-    <td width="25%" align="center">
-      <b>Cloud</b>
-      <br /><br />
-      Deployment, containers, Firebase, Google Cloud and practical automation.
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>UI Systems</h3>
+      <p>
+        Reusable components, design consistency, clean layouts, accessibility basics and smooth user flows.
+      </p>
     </td>
-    <td width="25%" align="center">
-      <b>Creative Tech</b>
-      <br /><br />
-      3D, game development, interactive UI and visual experiments.
+    <td width="50%">
+      <h3>Interactive Experiences</h3>
+      <p>
+        3D experiments, game-style interfaces, creative prototypes and visual experiences with personality.
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-## My Engineering Compass
+## Engineering Compass
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Readable%20Code-111827?style=for-the-badge&logo=clean&logoColor=white" alt="Readable code" />
-  <img src="https://img.shields.io/badge/Scalable%20Architecture-0ea5e9?style=for-the-badge" alt="Scalable architecture" />
-  <img src="https://img.shields.io/badge/Polished%20UI-7c3aed?style=for-the-badge" alt="Polished UI" />
-  <img src="https://img.shields.io/badge/Performance-f59e0b?style=for-the-badge" alt="Performance" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-111827?style=for-the-badge&logoColor=white" alt="Clean Architecture" />
+  <img src="https://img.shields.io/badge/Performance-0ea5e9?style=for-the-badge" alt="Performance" />
+  <img src="https://img.shields.io/badge/UI%20Polish-7c3aed?style=for-the-badge" alt="UI Polish" />
+  <img src="https://img.shields.io/badge/Automation-f59e0b?style=for-the-badge" alt="Automation" />
+  <img src="https://img.shields.io/badge/Creative%20Tech-ef4444?style=for-the-badge" alt="Creative Tech" />
 </p>
 
 <table>
   <tr>
-    <td width="50%">
-      <b>I like building:</b>
-      <br /><br />
-      Complete applications, dashboards, APIs, backend modules, cloud-connected systems, UI kits and interactive prototypes.
+    <td width="33%" align="center">
+      <h3>Think</h3>
+      Understand the problem, the user, the flow and the system before building.
     </td>
-    <td width="50%">
-      <b>I care about:</b>
-      <br /><br />
-      Good structure, clean user flows, simple maintainability, clear naming, performance and details that make software feel better.
+    <td width="33%" align="center">
+      <h3>Build</h3>
+      Create clean, readable and maintainable solutions with practical structure.
+    </td>
+    <td width="33%" align="center">
+      <h3>Polish</h3>
+      Improve performance, UI details, interactions and the final user experience.
     </td>
   </tr>
 </table>
 
 ---
 
-## GitHub Activity
+## Current Direction
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Improving+Full-Stack+Architecture;Building+better+UI+systems;Learning+more+cloud+and+automation;Exploring+3D+and+interactive+software" alt="Current direction animation" />
+</p>
+
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <b>React</b>
+      <br /><br />
+      Interfaces and components
+    </td>
+    <td align="center" width="20%">
+      <b>NestJS</b>
+      <br /><br />
+      APIs and backend structure
+    </td>
+    <td align="center" width="20%">
+      <b>.NET</b>
+      <br /><br />
+      Enterprise-style systems
+    </td>
+    <td align="center" width="20%">
+      <b>Docker</b>
+      <br /><br />
+      Containers and workflow
+    </td>
+    <td align="center" width="20%">
+      <b>Unity / Unreal</b>
+      <br /><br />
+      Interactive experiences
+    </td>
+  </tr>
+</table>
+
+---
+
+## GitHub Motion
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JordyRetana&theme=tokyo-night&hide_border=true&area=true&custom_title=Jordy%20Retana%20Contribution%20Graph" alt="GitHub activity graph" />
 </p>
-
----
-
-## GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JordyRetana&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" alt="GitHub trophies" />
@@ -254,13 +275,12 @@ My work lives between engineering and design: clean architecture, polished inter
   </a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=F59E0B&center=true&vCenter=true&width=850&lines=Thanks+for+visiting+my+profile;Always+building%2C+learning+and+improving;Code+with+purpose%2C+ship+with+quality" alt="Footer typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=19&duration=2600&pause=900&color=F59E0B&center=true&vCenter=true&width=900&lines=Thanks+for+visiting+my+profile;Always+building%2C+learning+and+improving;Code+with+purpose%2C+ship+with+quality" alt="Footer typing animation" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,45:7c3aed,100:0ea5e9&height=150&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ef4444,30:f59e0b,60:7c3aed,100:0ea5e9&height=150&section=footer&animation=twinkling" alt="Footer" />
 </p>
 
+<!-- README END -->
