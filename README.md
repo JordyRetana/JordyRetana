@@ -1,6 +1,6 @@
 <!-- =========================================================
      JORDY RETANA — GITHUB PROFILE
-     Cleaner, more reliable, less generic
+     Custom animated developer identity
 ========================================================= -->
 
 <p align="center">
@@ -20,8 +20,7 @@
 </p>
 
 <p align="center">
-  <b>Full-Stack Developer from Costa Rica 🇨🇷</b><br/>
-  Frontend · Backend · Cloud · UI/UX · Automation · Interactive Tech
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2300&pause=650&color=22D3EE&center=true&vCenter=true&width=900&lines=Building+digital+experiences;Frontend+%2B+Backend+%2B+Cloud;Designing+with+personality;Exploring+interactive+and+3D+software" alt="Animated developer intro" />
 </p>
 
 ---
@@ -47,46 +46,31 @@ I enjoy building software that feels **fast, intentional and polished** — not 
 
 ---
 
-## `> what.i.build`
-
-⚡ **Frontend experiences**  
-Interfaces with personality, responsive behavior, reusable components, motion and visual polish.
-
-🧠 **Backend systems**  
-APIs, validation, authentication, business logic, databases and maintainable architecture.
-
-☁️ **Cloud & automation**  
-Docker, deployments, cloud workflows and practical automation that removes repetitive work.
-
-🎮 **Creative technology**  
-Interactive prototypes, 3D ideas, game-inspired interfaces and experiments that feel different.
-
----
-
-## `> tech.stack`
+## `> system.capabilities`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,cs,cpp,java,python,react,nextjs,html,css,bootstrap,nodejs,nestjs,spring,dotnet,mysql,firebase,gcp,docker,linux,git,github,jest,vscode,blender,unity,unreal&perline=9&theme=dark" alt="Technology stack" />
-</p>
-
-<p align="center">
-  JavaScript · TypeScript · C# · C++ · Java · Python<br/>
-  React · Next.js · Node.js · NestJS · Spring · .NET<br/>
-  MySQL · Oracle · Firebase · Google Cloud<br/>
-  Docker · Linux · Git · GitHub · Jest<br/>
-  Blender · Unity · Unreal Engine
+  <img src="./assets/capabilities.svg" width="100%" alt="Animated map of developer capabilities" />
 </p>
 
 ---
 
-## `> current.mode`
+## `> tech.stack --motion`
 
-```text
-[ ACTIVE ] Improving full-stack architecture
-[ ACTIVE ] Designing interfaces with more personality
-[ ACTIVE ] Learning better cloud and automation workflows
-[ ACTIVE ] Exploring interactive and 3D software
-```
+<p align="center">
+  <img src="./assets/stack-motion.svg" width="100%" alt="Animated technology stack pipeline" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,cs,cpp,java,python,react,nextjs,nodejs,nestjs,spring,dotnet,mysql,firebase,gcp,docker,linux,git,github,blender,unity,unreal&perline=11&theme=dark" alt="Technology icons" />
+</p>
+
+---
+
+## `> current.mode --live`
+
+<p align="center">
+  <img src="./assets/focus-terminal.svg" width="100%" alt="Animated current focus terminal" />
+</p>
 
 > Build useful things. Make them feel good. Keep the code maintainable.
 
@@ -115,7 +99,7 @@ Interactive prototypes, 3D ideas, game-inspired interfaces and experiments that 
 ```
 
 <p align="center">
-  <b>Code with purpose · Design with personality · Build things worth using</b>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2500&pause=900&color=F59E0B&center=true&vCenter=true&width=900&lines=Code+with+purpose;Design+with+personality;Build+things+worth+using" alt="Animated footer philosophy" />
 </p>
 
 <p align="center">
