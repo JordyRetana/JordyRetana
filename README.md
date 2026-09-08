@@ -1,10 +1,13 @@
 <!-- =========================================================
      JORDY RETANA — GITHUB PROFILE
-     Custom animated developer identity
+     Responsive animated developer identity
 ========================================================= -->
 
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Jordy Retana animated developer banner" />
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/hero-mobile.svg" />
+    <img src="./assets/hero.svg" width="100%" alt="Jordy Retana animated developer banner" />
+  </picture>
 </p>
 
 <p align="center">
@@ -20,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2300&pause=650&color=22D3EE&center=true&vCenter=true&width=900&lines=Building+digital+experiences;Frontend+%2B+Backend+%2B+Cloud;Designing+with+personality;Exploring+interactive+and+3D+software" alt="Animated developer intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2300&pause=700&color=22D3EE&center=true&vCenter=true&width=760&lines=Building+digital+experiences;Frontend+%2B+Backend+%2B+Cloud;Designing+with+personality;Exploring+interactive+and+3D+software" alt="Animated developer intro" />
 </p>
 
 ---
@@ -49,7 +52,10 @@ I enjoy building software that feels **fast, intentional and polished** — not 
 ## `> system.capabilities`
 
 <p align="center">
-  <img src="./assets/capabilities.svg" width="100%" alt="Animated map of developer capabilities" />
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/capabilities-mobile.svg" />
+    <img src="./assets/capabilities.svg" width="100%" alt="Animated map of developer capabilities" />
+  </picture>
 </p>
 
 ---
@@ -57,11 +63,14 @@ I enjoy building software that feels **fast, intentional and polished** — not 
 ## `> tech.stack --motion`
 
 <p align="center">
-  <img src="./assets/stack-motion.svg" width="100%" alt="Animated technology stack pipeline" />
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/stack-motion-mobile.svg" />
+    <img src="./assets/stack-motion.svg" width="100%" alt="Animated technology stack pipeline" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,cs,cpp,java,python,react,nextjs,nodejs,nestjs,spring,dotnet,mysql,firebase,gcp,docker,linux,git,github,blender,unity,unreal&perline=11&theme=dark" alt="Technology icons" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cs,cpp,java,python,react,nextjs,nodejs,nestjs,spring,dotnet,mysql,firebase,gcp,docker,linux,git,github,blender,unity,unreal&perline=7&theme=dark" alt="Technology icons" />
 </p>
 
 ---
@@ -69,7 +78,10 @@ I enjoy building software that feels **fast, intentional and polished** — not 
 ## `> current.mode --live`
 
 <p align="center">
-  <img src="./assets/focus-terminal.svg" width="100%" alt="Animated current focus terminal" />
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/focus-terminal-mobile.svg" />
+    <img src="./assets/focus-terminal.svg" width="100%" alt="Animated current focus terminal" />
+  </picture>
 </p>
 
 > Build useful things. Make them feel good. Keep the code maintainable.
@@ -99,7 +111,7 @@ I enjoy building software that feels **fast, intentional and polished** — not 
 ```
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2500&pause=900&color=F59E0B&center=true&vCenter=true&width=900&lines=Code+with+purpose;Design+with+personality;Build+things+worth+using" alt="Animated footer philosophy" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=17&duration=2500&pause=900&color=F59E0B&center=true&vCenter=true&width=720&lines=Code+with+purpose;Design+with+personality;Build+things+worth+using" alt="Animated footer philosophy" />
 </p>
 
 <p align="center">
